@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "files.eol": "\n",
+    "editor.minimap.showSlider": "always",
+    "editor.acceptSuggestionOnEnter": "off",
+    "files.autoGuessEncoding": true,
+    "editor.insertSpaces": false,
+
+    "workbench.colorCustomizations": {
+        "editor.background":"#1f1527",
+        "activityBarBadge.background":"#ec1010d5",
+        "activityBar.foreground":"#f0e3ff",
+        "activityBar.inactiveForeground":"#65587e",
+        "sideBar.background":"#10001f",
+        "tab.activeBackground":"#480785"
+    }
+}
