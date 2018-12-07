@@ -10,11 +10,11 @@
     "editor.insertSpaces": false,
 
     "workbench.colorCustomizations": {
-        "editor.background":"#1f1527",
+        "editor.background":"#252029",
         "activityBarBadge.background":"#ec1010d5",
         "activityBar.foreground":"#f0e3ff",
         "activityBar.inactiveForeground":"#65587e",
-        "sideBar.background":"#10001f",
+        "sideBar.background":"#1e1824",
         "tab.activeBackground":"#480785"
     }
 }
