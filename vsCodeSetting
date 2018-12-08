@@ -10,11 +10,17 @@
     "editor.insertSpaces": false,
 
     "workbench.colorCustomizations": {
-        "editor.background":"#252029",
+        "editor.background":"#2c2830",
         "activityBarBadge.background":"#ec1010d5",
-        "activityBar.foreground":"#f0e3ff",
+        "activityBar.foreground":"#73d4b9",
         "activityBar.inactiveForeground":"#65587e",
-        "sideBar.background":"#1e1824",
-        "tab.activeBackground":"#480785"
+        "sideBar.background":"#2a2530",
+        "tab.activeBackground":"#480785",
+        "editor.findMatchBackground":"#97faed",
+        "editor.findMatchHighlightBackground":"#61bd8056",
+        "editor.rangeHighlightBackground":"#53d7f83b",
+        "editorBracketMatch.background":"#a9f8b44f",
+        "sideBarSectionHeader.background":"#2a3b42",
+        "editorCursor.foreground":"#e1ff59"
     }
 }
