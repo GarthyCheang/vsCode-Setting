@@ -37,3 +37,38 @@
         "editorIndentGuide.activeBackground": "#c1f31c"
     }
 }
+
+====================
+
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontSize": 18,
+    "editor.tabSize": 2,
+    "files.eol": "\n",
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#73d4b9",
+        "activityBar.inactiveForeground": "#857f91",
+        "tab.activeBackground": "#077685",
+        "editor.findMatchBackground": "#5ce69557",
+        "editor.findMatchHighlightBackground": "#41f77e4d",
+        "editor.rangeHighlightBackground": "#53d7f83b",
+        "editorBracketMatch.background": "#3affd477",
+        "sideBarSectionHeader.background": "#2a3b42",
+        "editorCursor.foreground": "#5ce6d3",
+        "sideBarSectionHeader.foreground": "#ffffff",
+        "sideBarSectionHeader.border": "#00ffff",
+        "editorLineNumber.foreground": "#7f728a",
+        "editorLineNumber.activeForeground": "#a8dde0",
+        "editor.selectionForeground": "#ffffff",
+        "editor.selectionHighlightBorder": "#00f5e9",
+        "list.activeSelectionForeground": "#a8dde0",
+        "editorIndentGuide.activeBackground": "#c1f31c"
+    },
+    "launch": {},
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "arduino.path": "/Applications/Arduino.app",
+    "C_Cpp.updateChannel": "Insiders"
+}
